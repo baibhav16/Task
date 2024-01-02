@@ -11,13 +11,13 @@ function Gradient() {
             src="/ellipse-21.png"
           />
           <img
-            className="absolute w-3/4 h-1/2 top-1/2 left-[26%] "
+            className="absolute w-3/4 h-1/2 top-1/2 left-[25%] "
             alt="Vector"
             src="/vector-3-1.png"
           />
           <img className="absolute w-10/12 h-1/ bottom-0 left-0" alt="Vector" src="/vector-5.svg" />
           <img
-            className="absolute w-10/12 h-2/5 bottom-0 left-[18%]"
+            className="absolute w-10/12 h-2/5 bottom-0 left-[17%]"
             alt="Vector"
             src="/vector-7.svg"
           />
