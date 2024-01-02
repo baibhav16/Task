@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 export const About = () => {
   return (
     <div className="bg-black flex flex-row justify-center w-full">
-      <div className="bg-black overflow-hidden w-[1440px] h-[3072px]">
+      <div className="bg-black overflow-hidden w-screen h-[3072px]">
      
       <Gradient/>
      <Center/>
